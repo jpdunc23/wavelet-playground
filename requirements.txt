@@ -1,0 +1,2 @@
+PyWavelets
+seaborn[stats]
